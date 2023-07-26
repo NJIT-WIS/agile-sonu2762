@@ -77,7 +77,7 @@ In this Task, students will explore the integration of Agile methodologies with 
 📋 **Steps:**
 
 1. Create an issue, assign it to the project, and make a branch specific to that issue.
-2. Follow the Git steps to work on the issue:
+2. Follow the Git steps to work on the issue:   
    ```bash
    git fetch origin
    git checkout <issue-number>-<branch-name>
