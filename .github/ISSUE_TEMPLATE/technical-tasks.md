@@ -2,15 +2,8 @@
 name: Technical Tasks
 about: Describe this issue template's purpose here.
 title: ' Implement Automated Testing with Playwright'
-labels: 'enhancement', 'testing'
+labels: 'testing'
 assignees: 'sa2762'
-
-
-name: Implement Automated Testing with Playwright
-about: Enhance project testing through Playwright automation
-title: 'Implement Automated Testing with Playwright'
-labels: 'enhancement', 'testing'
-assignees: 'qa_engineer'
 
 ---
 
