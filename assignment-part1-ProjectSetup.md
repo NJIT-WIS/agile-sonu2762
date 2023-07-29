@@ -7,7 +7,7 @@ In this Task, students will explore the integration of Agile methodologies with 
 ## 🎯 **Learning Outcomes**
 
 - Grasp the fundamentals of Agile methodologies in software project management.
-- Utilize GitHub for project management and task tracking.
+- Utilize GitHub for project manag ement and task tracking.
 - Draft and manage user stories and acceptance criteria.
 - Implement effective GitHub collaboration techniques.
 
