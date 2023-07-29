@@ -3,7 +3,7 @@ name: Technical Tasks
 about: Describe this issue template's purpose here.
 title: ' Implement Automated Testing with Playwright'
 labels: 'testing'
-assignees: 'sa2762'
+assignees: 'sa2762'   
 
 ---
 

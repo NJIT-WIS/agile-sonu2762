@@ -78,10 +78,7 @@ In this Task, students will explore the integration of Agile methodologies with 
 
 1. Create an issue, assign it to the project, and make a branch specific to that issue.
 2. Follow the Git steps to work on the issue:   
-   ```bash
-   git fetch origin
-   git checkout <issue-number>-<branch-name>
-   ```
+  
 Finalize the issue, push the changes, create a pull request, merge it, update your local master, and repeat the process.
 ✨ Skills Acquired
 
