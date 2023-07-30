@@ -2,7 +2,7 @@ name: SuperLinter
 on: [pull_request]
 
 jobs:
-  super-lint:
+  superlint:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
@@ -11,8 +11,6 @@ jobs:
 
       - name: Run SuperLinter
         uses: github/super-linter@v3
-        env:
-         DEFAULT BRANCH:main
-         GITHUB_TOKEN:${(secrets.GITHUB_TOKEN)}
+
 
     
