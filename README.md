@@ -2,7 +2,7 @@
 
 ## 📖 **Introduction**
 
-Embark on an Agile journey, moving from foundational concepts to hands-on application. While the task — creating a "Hello Professor" web page — might seem elementary, it encapsulates the essence of modern software development. Through this assignment, you'll gain hands-on experience and a deep understanding of Agile methodologies, tools, and principles.
+Embark on an Agile journey, moving from foundational concepts to hands-on application. While the task — creating a "Hello Professor" web page — might seem elementary, it en capsulates the essence of modern software development. Through this assignment, you'll gain hands-on experience and a deep understanding of Agile methodologies, tools, and principles.
 
 ## Note about Final Individual Project
 
